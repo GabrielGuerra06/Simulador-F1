@@ -1,1 +1,1 @@
-# Simulador-F1
+Este programa es un simulador de carreras a partir de una pequeña base de datos el cual, calcula las posiciones y los ganadores aleatoriamente con bubble sort sumando los puntos de cada uno, usando solamente funciones.
